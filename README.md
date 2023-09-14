@@ -6,7 +6,7 @@ This is my personal portfolio website project built using HTML, CSS, and JavaScr
 
 ## Live Demo
 
-Live demo: https://niteshsahu107.github.io/Portfolio/
+Live demo:
 
 ## Features
 
@@ -45,4 +45,49 @@ Contributions are always welcome!
 
  welcome contributions to our innovative project, aiming to revolutionize  through cutting-edge technology, fostering collaboration, and delivering impactful solutions.
 
+
+
+
+## 3.Temperature Converter Website
+
+
+Certainly! Below is an example of a README file for your Temperature Converter website that you can use on GitHub. You should place this README file in the root directory of your project along with your HTML, CSS, and JavaScript files.
+
+```markdown
+## Temperature Converter Website
+
+This is a simple temperature converter website that allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin.
+
+## Demo
+
+You can see a live demo :-
+
+## Features
+
+- Convert temperatures between Celsius, Fahrenheit, and Kelvin.
+- User-friendly interface with input validation.
+- Responsive design for various screen sizes.
+
+## Folder Structure
+
+- `index.html`: The main HTML file containing the user interface.
+- `style.css`: The CSS file for styling the website.
+- `script.js`: The JavaScript file for handling temperature conversion.
+- `images/`: You can store images or other assets here if needed.
+
+## Customization
+
+You can customize the website by modifying the CSS styles and JavaScript code to match your preferences or add additional features.
+## Contact
+
+Feel free to reach out to me for any questions or feedback:
+
+- Email: 10799nsahu@gmail.com
+- LinkedIn:(https://www.linkedin.com/in/nitesh-sahu-b935aa20b/)
+
+## Contributing
+
+Contributions are always welcome!
+
+ welcome contributions to our innovative project, aiming to revolutionize  through cutting-edge technology, fostering collaboration, and delivering impactful solutions.
 
