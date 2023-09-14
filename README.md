@@ -1,3 +1,38 @@
+# 1.Product Landing Page
+
+This is a product landing page designed to showcase the features and benefits of our amazing product.
+
+
+## Features
+
+- Visually appealing and responsive design.
+- Detailed product information and specifications.
+- Pricing and subscription options.
+- Contact form for inquiries and feedback.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap (optional, if used)
+- Any other relevant libraries or frameworks
+
+## Contact
+
+Feel free to reach out to me for any questions or feedback:
+
+- Email: 10799nsahu@gmail.com
+- LinkedIn:(https://www.linkedin.com/in/nitesh-sahu-b935aa20b/)
+
+## Contributing
+
+Contributions are always welcome!
+
+ welcome contributions to our innovative project, aiming to revolutionize  through cutting-edge technology, fostering collaboration, and delivering impactful solutions.
+
+
+
 # 2.Portfolio Project
 
 ## Description
