@@ -4,10 +4,6 @@
 
 This is my personal portfolio website project built using HTML, CSS, and JavaScript. It showcases my skills, projects, and experiences in a visually appealing manner.
 
-## Live Demo
-
-Live demo:
-
 ## Features
 
 - Responsive design for various devices.
@@ -28,8 +24,6 @@ Contributions are welcome! If you'd like to enhance the portfolio or fix any iss
 2. Create a new branch for your feature or bug fix.
 3. Commit your changes and push the branch to your fork.
 4. Submit a pull request, and we'll review your changes.
-
-
 
 
 ## Contact
@@ -53,14 +47,10 @@ Contributions are always welcome!
 
 Certainly! Below is an example of a README file for your Temperature Converter website that you can use on GitHub. You should place this README file in the root directory of your project along with your HTML, CSS, and JavaScript files.
 
-```markdown
+
 ## Temperature Converter Website
 
 This is a simple temperature converter website that allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin.
-
-## Demo
-
-You can see a live demo :-
 
 ## Features
 
